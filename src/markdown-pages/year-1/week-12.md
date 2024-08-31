@@ -62,6 +62,7 @@ _New stuff we learned this week:_ 🤔
 ## Useful Links:
 
 - [Regexr](https://regexr.com/) -- Regular expression playground
+- [Cyrilex](https://extendsclass.com/regex-tester.html) -- Visual regular expression playground
 - [TouchType.co](http://touchtype.co)
 - [How To Type](https://www.howto-type.com)
 - [Color Keywords](https://developer.mozilla.org/en-US/docs/Web/CSS/color_value#colors_table)
